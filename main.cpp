@@ -1,0 +1,1 @@
+# Código fuente en C++\nEjecutar el archivo `main.cpp` para iniciar la aplicación.
