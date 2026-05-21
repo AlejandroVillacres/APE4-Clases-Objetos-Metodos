@@ -1,1 +1,1 @@
-# Código fuente en C++\nEjecutar el archivo `main.cpp` para iniciar la aplicación.
+# Código fuente en Java\nCompilar y ejecutar `Main.java` manteniendo `Estudiante.java` en el mismo paquete.
